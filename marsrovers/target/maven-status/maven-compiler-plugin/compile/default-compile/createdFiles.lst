@@ -1,0 +1,10 @@
+com\axisrooms\RoverClient.class
+com\axisrooms\SouthRoverState.class
+com\axisrooms\Rover.class
+com\axisrooms\WestRoverState.class
+com\axisrooms\RoverState.class
+com\axisrooms\RoverPosition.class
+com\axisrooms\RoverFrame.class
+com\axisrooms\EastRoverState.class
+com\axisrooms\NorthRoverState.class
+com\axisrooms\RoverStateMapping.class
