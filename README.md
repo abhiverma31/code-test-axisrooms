@@ -12,13 +12,7 @@ e)On instantiating the Rover :-
    4)the frame limits (bound values) are set (Xmax, Ymax)
 
 Assumptions:
-a)The user enters valid data as input which is in the format given as examples in the problem statement:
-  This user input should be entered in this format :-
-   a)for the upper Right co-ordinates of the rover frame the format should be xy (for example 55)
-   b)the current rover position and direction should be entered in this format : xyC ( for example 12N)
-   c)the series of instructions for the rover movement should be entered as a string sequence of LMR (for example LMLMLMLMM)
-
-b)There are only four possible directions the rover can be in - North(N), South(S), East(E), West(W)
+-There are only four possible directions the rover can be in - North(N), South(S), East(E), West(W)
 
 To trigger the Rover program:
 a)Create a project in eclipse and create a default package. Copy all the 10 java files(unzip the attachment to extract the files) in the default package
